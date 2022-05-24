@@ -1,0 +1,11 @@
+.cache
+.parcel-cache
+
+dist
+build
+node_modules
+
+# misc
+.DS_Store
+.env
+.env.*
